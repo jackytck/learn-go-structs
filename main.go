@@ -51,5 +51,5 @@ func main() {
 	jim.updateName("jimmy")
 	jim.print()
 
-	mapper()
+	mapBasics()
 }
