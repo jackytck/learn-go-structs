@@ -54,4 +54,6 @@ func main() {
 	mapBasics()
 
 	inter()
+
+	getRequest()
 }
