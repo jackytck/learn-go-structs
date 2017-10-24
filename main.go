@@ -52,4 +52,6 @@ func main() {
 	jim.print()
 
 	mapBasics()
+
+	inter()
 }
