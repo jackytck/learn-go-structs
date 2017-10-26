@@ -56,4 +56,6 @@ func main() {
 	inter()
 
 	getRequest()
+
+	testPrintArea()
 }
