@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"os"
+)
 
 type contactInfo struct {
 	email   string
@@ -58,4 +61,6 @@ func main() {
 	getRequest()
 
 	testPrintArea()
+
+	cat(os.Args[1])
 }
