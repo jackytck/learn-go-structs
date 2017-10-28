@@ -63,4 +63,6 @@ func main() {
 	testPrintArea()
 
 	cat(os.Args[1])
+
+	statusCheck()
 }
